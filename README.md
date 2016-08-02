@@ -1,5 +1,6 @@
 # Learning Git
 Add your name below
 Dane King
-Afzal Agwan #
+Zack Fanning
+Afzal Agwan
 Shawn Kulbacki
